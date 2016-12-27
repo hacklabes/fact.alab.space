@@ -1,0 +1,24 @@
+{% include navbar.html %}
+<div id="main-div">
+  {% if page.header %}
+    <div id="post-image-header">
+      <img src={{ page.header }}>
+    </div>
+  {% endif %}
+  <div id="post">
+    <div class="post-title">{{ page.title }}</div>
+    <div class="post-date">
+      {% if page.artist %}
+        {{ page.artist }}
+      {% elsif page.dates %}
+        {{ page.dates }}
+      {% else %}
+        {{ page.date | date: "%d %B %Y" }}
+      {% endif %}
+    </div>
+    <content>
+      {{ content }}
+      {% include swipebox.html %}
+    </content>
+  </div>
+</div>
