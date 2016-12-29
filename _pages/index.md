@@ -1,6 +1,6 @@
 ---
-layout: home
-title: FACTLAB
+layout: list
+title: home
 subtitle: A Lab Space
 permalink: '/'
 ---
