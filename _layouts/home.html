@@ -13,8 +13,8 @@
             {% unless post.category contains 'draft' %}
               <a class="post-list-item" href="{{ post.url }}">
                 <div class="post-image">
-                  {% assign assets = "/assets" | append: post.url %}
-                  <img src="{{ assets }}cover.jpg" alt="{{ post.title }}" title="{{ post.title }}">
+                  {% assign coverImage = "/assets/posts" | append: post.url | append: "cover.jpg" %}
+                  <img src="{{ coverImage }}" alt="{{ post.title }}" title="{{ post.title }}">
                 </div>
 
                 <div class="post-title-container">

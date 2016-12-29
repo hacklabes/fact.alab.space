@@ -20,6 +20,12 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      cover: "/assets/posts/ob_ject-and-ob_serve/cover01.jpg"
 
 # Data
 social:
