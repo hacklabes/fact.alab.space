@@ -3,6 +3,7 @@ layout: post
 title: About
 description: ''
 permalink: '/about/'
+menu: true
 ---
 <img class="alignleft size-full wp-image-146" src="http://www.thiagohersan.com/flab/wp-content/uploads/2015/11/byo_low-res_84_s-e1448703507873.jpg" alt="byo_low-res_84_s" width="1486" height="724" srcset="http://alab.space/wp-content/uploads/2015/11/byo_low-res_84_s-e1448703507873.jpg 1486w, http://alab.space/wp-content/uploads/2015/11/byo_low-res_84_s-e1448703507873-300x146.jpg 300w, http://alab.space/wp-content/uploads/2015/11/byo_low-res_84_s-e1448703507873-1024x499.jpg 1024w, http://alab.space/wp-content/uploads/2015/11/byo_low-res_84_s-e1448703507873-950x463.jpg 950w, http://alab.space/wp-content/uploads/2015/11/byo_low-res_84_s-e1448703507873-450x219.jpg 450w" sizes="(max-width: 1486px) 100vw, 1486px" />
 

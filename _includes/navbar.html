@@ -5,14 +5,11 @@
     </a>
   </div>
   <div class="pages-container">
-    <a id="nav-about" href="/projects/">
-      <div class="nav-item">Projects</div>
-    </a>
-    <a id="nav-about" href="/events/">
-      <div class="nav-item">Events</div>
-    </a>
-    <a id="nav-resources" href="/resources/">
-      <div class="nav-item">Resources</div>
-    </a>
+    {% assign menuPages = site.pages | where:"menu","true" %}
+    {% for page in menuPages %}
+      <a id="nav-{{ page.title | downcase }}" href="{{ page.url }}">
+        <div class="nav-item">{{ page.title }}</div>
+      </a>
+    {% endfor %}
   </div>
 </div>
