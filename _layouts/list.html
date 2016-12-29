@@ -9,14 +9,14 @@
     <div id="main-div">
       <div id="post-list" class="post-list-container">
         {% for post in site.posts %}
-          {% if page.category == 'all' or post.categories contains page.category %}
+          {% assign pageCategory = page.title|downcase %}
+          {% if post.categories contains pageCategory %}
             {% unless post.category contains 'draft' %}
-              <a class="post-list-item {% cycle 'post-list-item-reverse', '' %}" href="{{ post.url }}">
+              <a class="post-list-item" href="{{ post.url }}">
                 <div class="post-image">
                   {% assign assets = "/assets" | append: post.url | replace: "/post/", "/posts/" %}
                   <img src="{{ assets }}cover.jpg" alt="{{ post.title }}" title="{{ post.title }}">
                 </div>
-
                 <div class="post-title-container">
                   {% assign daymonthyear = post.date | date: "%d %B %Y" %}
                   <div class="post-title">{{ post.title }}</div>
