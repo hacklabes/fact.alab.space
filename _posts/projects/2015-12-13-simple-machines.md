@@ -1,7 +1,6 @@
 ---
 title: Simple Machines
 artist: Alex Pearl
-cover: /wp-content/uploads/2015/12/SimpleMachine00x-e1450311080788.jpg
 categories: projects
 ---
 A Simple Machine is an intimate object whose parts can be cradled in the palm of one’s hand. It consists of a nine volt battery, a small motor, and a small object attached to the motor’s spindle.

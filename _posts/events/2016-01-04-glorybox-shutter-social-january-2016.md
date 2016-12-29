@@ -1,6 +1,5 @@
 ---
 title: Glorybox Shutter Social
-cover: /wp-content/uploads/2016/01/sIMG_4671.jpg
 categories: events
 ---
 Shutter Social is a monthly peer-led photography workshop hosted by [GLORYBOX](http://www.glory-box.co.uk/).

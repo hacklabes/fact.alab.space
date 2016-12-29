@@ -1,6 +1,5 @@
 ---
 title: 'Reading and Thinging #2'
-cover: /wp-content/uploads/2016/01/IMG_4913x1080.jpg
 categories: events
 ---
 **On Parapoetics and Paramechanics.**

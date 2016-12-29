@@ -1,7 +1,6 @@
 ---
 title: Laser Chat Transfronterizo
 artist: Astrovandalistas
-cover: /wp-content/uploads/2016/10/laserTest12.jpg
 categories: projects
 ---
 The laser chat installation is a continuation of [Astrovandalistas&#8217;](http://www.astrovandalistas.cc/) previous research about private networks and affective communication. It is also a practical demonstration of how to reinterpret and reimagine space technologies for more terrestrial uses. It is based on a couple of NASA projects that use light to transmit data over large distances ([LLCD](http://esc.gsfc.nasa.gov/267/271.html), [LCRD](http://esc.gsfc.nasa.gov/267/LCRD.html), [OPALS](http://phaeton.jpl.nasa.gov/external/projects/optical.cfm)).

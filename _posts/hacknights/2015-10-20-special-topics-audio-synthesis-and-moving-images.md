@@ -1,6 +1,5 @@
 ---
 title: 'Special Topics: Audio Synthesis and Moving Images'
-cover: /wp-content/uploads/2015/10/soundwave.png
 categories: hacknights
 ---
 Inspired by themes from the film [THX1138](https://en.wikipedia.org/wiki/THX_1138), where machines mediate most human interactions, and technology plays a vital role maintaining systems of order and control, this workshop will explore what happens when machines choose what music they want to play.

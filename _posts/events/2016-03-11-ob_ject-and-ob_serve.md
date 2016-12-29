@@ -1,7 +1,6 @@
 ---
 title: Ob_ject and Ob_serve
 dates: '11 February – 14 March'
-cover: /wp-content/uploads/2016/01/AlexCeramics00.png
 categories: events news
 ---
 FACTLab and the [Object Liberation Front](http://olf.space/) present: Ob\_ject and Ob\_serve.

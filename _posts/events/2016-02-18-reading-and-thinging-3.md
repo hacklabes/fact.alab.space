@@ -1,6 +1,5 @@
 ---
 title: 'Reading and Thinging #3'
-cover: /wp-content/uploads/2016/01/RT3.jpg
 categories: events
 ---
 Combining a reading group with a ’show and tell’ session, Reading &#038; Thinging explores themes in science, philosophy and media theory relevant to contemporary art practice through a curated reading list and discussion of objects.

@@ -1,6 +1,5 @@
 ---
 title: 'APIs: An Introduction'
-cover: /wp-content/uploads/2015/12/apis-intro-1-e1450120267212.png
 categories: hacknights
 ---
 In this session we’ll talk about Application Programming Interfaces (APIs), what they are and how to use them. As a practical demonstration we’ll show how to use code and APIs to get and post content to different social networking sites.

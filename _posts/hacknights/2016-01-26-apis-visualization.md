@@ -1,6 +1,5 @@
 ---
 title: 'APIs: Visualization'
-cover: /wp-content/uploads/2015/12/api-vis0.png
 categories: hacknights
 ---
 In this session we’ll continue our investigation of APIs by exploring how to gather and visualize large amounts of data. We’ll use the facebook API to spy on ourselves.

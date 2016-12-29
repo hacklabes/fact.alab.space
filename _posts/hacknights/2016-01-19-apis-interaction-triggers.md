@@ -1,6 +1,5 @@
 ---
 title: 'APIs: Interaction Triggers'
-cover: /wp-content/uploads/2015/12/apis-interaction-triggers-2-e1450130257318.png
 categories: hacknights
 ---
 In this session we’ll continue our investigation of APIs by exploring how to use different social media interactions to trigger events. For example, we’ll learn how to use the Twitter API to get live hashtag updates.

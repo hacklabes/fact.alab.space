@@ -1,6 +1,5 @@
 ---
 title: Sound Spaces Workshop
-cover: /wp-content/uploads/2015/10/soundSpaces00.jpg
 categories: events
 ---
 Spend a day with artist [Simon Bowen](http://www.simon-bowen.com/) creating sounds and images for an interactive artwork about Liverpool as it was, and as you see it today.

@@ -1,7 +1,6 @@
 ---
 title: 'Special Topics: Internet'
 dates: '15 & 22 September 2015'
-cover: /wp-content/uploads/2015/09/internet.png
 categories: hacknights
 ---
 In these sessions we’ll talk about the internet, what it is, how it works, and program simple client/server interactions using node.ja.

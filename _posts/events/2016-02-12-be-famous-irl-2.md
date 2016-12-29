@@ -1,7 +1,6 @@
 ---
 title: Be Famous IRL
 dates: '12 & 13 February'
-cover: /wp-content/uploads/2016/01/color_img_m.jpg
 categories: events
 ---
 As we keep racing to make our communication devices better, faster and smaller, how can we make sure our interactions still impart a sense of uniqueness and specialness for the people involved, and that our personalities don’t get optimized out of our own communication processes?

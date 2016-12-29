@@ -1,7 +1,6 @@
 ---
 title: Tweet and Shout
 dates: '14 & 16 August 2015'
-cover: /wp-content/uploads/2015/08/tweet-and-shout.jpg
 categories: events
 ---
 In this two day workshop we will use computer scripts, karaoke files and online translation/pronunciation services to reinterpret and re-appropriate pop songs and make computers sing our social media streams.

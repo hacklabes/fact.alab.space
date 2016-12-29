@@ -1,6 +1,5 @@
 ---
 title: 'APIs: Glitter'
-cover: /wp-content/uploads/2015/12/apis-glitter0-e1450132817741.png
 categories: hacknights
 ---
 In this session we’ll continue our investigation of APIs by exploring how to automatically post data onto different social media platforms.

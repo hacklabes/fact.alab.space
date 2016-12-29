@@ -1,6 +1,5 @@
 ---
 title: Invisible Wind Factory
-cover: /wp-content/uploads/2015/06/IWF.jpg
 categories: talks
 ---
 [Invisible Wind Factory](http://www.invisiblewindfactory.com/) is a Liverpool-based arts collective comprising of members from the Kazimier, who create experiences, taking audiences on voyages of augmented reality; manipulating senses, exploring the spectrum of human emotion; taking individuals into reflective isolation or exploring the euphoria of unifying a collective.

@@ -1,7 +1,6 @@
 ---
 title: Icosahedron Sound System
 artist: Kinicho
-cover: /wp-content/uploads/2016/08/soundLinesProject01-e1450180328854.jpeg
 categories: projects
 ---
 The Icosahedron Sound System developed by [Kinicho](http://www.kinicho.com/) is a 20-speaker ambisonic dodecahedron array for immersive sound installations.

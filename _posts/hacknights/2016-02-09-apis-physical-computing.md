@@ -1,7 +1,6 @@
 ---
 title: 'APIs: Physical Computing'
 dates: '09 & 16 February 2016'
-cover: /wp-content/uploads/2016/01/physicalComputing01.jpg
 categories: hacknights
 ---
 In this session we&#8217;ll be investigating how to connect API data to physical computing devices. For example, how to build a hashtag tracking monitor connected to a servo motor, or a coffee machine that listens to pokes.

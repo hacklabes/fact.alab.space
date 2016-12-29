@@ -1,6 +1,5 @@
 ---
 title: OpenIdMic@Follow
-cover: /wp-content/uploads/2015/12/greenScreen.jpg
 categories: events
 ---
 Social media affects our self-esteem and self-concept in many ways. We form an identity online based on our persona on Facebook, Instagram, Twitter, YouTube, but is this online version also the person we are offline? How are we misrepresented by our online identities &#8211; does the ability to delete, or augment, all of our flaws present a perfected image, too far from reality? Is the ‘lifestyle’ perpetuated by social media now dangerously unattainable, are the profile pictures we share simply advertisements for branded goods rather than reflections of our self?

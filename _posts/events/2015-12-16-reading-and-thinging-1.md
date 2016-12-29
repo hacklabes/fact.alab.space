@@ -1,6 +1,5 @@
 ---
 title: 'Reading and Thinging #1'
-cover: /wp-content/uploads/2015/12/on-reflection-refraction-and-diffraction-2.jpg
 categories: events
 ---
 **On Reflection, Refraction and Diffraction**

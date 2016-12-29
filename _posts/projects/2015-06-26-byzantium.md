@@ -1,7 +1,6 @@
 ---
 title: Byzantium
 artist: C H R Θ M A
-cover: /wp-content/uploads/2015/06/byzantium03.jpg
 categories: projects
 ---
 Byzantium is a sound experiment from artist group [CHRΘMA](http://chroma.space/) investigating visionary language, birdsong and participatory algorithms. For the run of [Libidinal Circuits](http://www.fact.co.uk/projects/libidinal-circuits-scenes-of-urban-innovation-iii.aspx), a golden bird was perched in a tree in Ropewalk square, sounding a polyphonic mix of the city’s desires, frustrations, memories and dreams. Like Yeats’ mechanical golden bird that sings in the eternal city in his poem Sailing to Byzantium, this metal bird sang &#8220;Of what is past, or passing, or to come&#8221; by combining voices collected from the streets of Liverpool with audio streams of bird habitats out beyond the city limits.

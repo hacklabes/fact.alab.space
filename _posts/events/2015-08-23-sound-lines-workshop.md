@@ -1,7 +1,6 @@
 ---
 title: Sound Lines Workshop
 dates: '23 - 26 August 2015'
-cover: /wp-content/uploads/2015/08/soundLines00.jpg
 categories: events
 ---
 Drawing on traditions of psychogeography, improvised noise performance, soundscape research, DIY technologies and public making practices, participants will create a performable installation that offers an imaginative remapping of Liverpool.

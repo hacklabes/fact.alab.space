@@ -1,7 +1,6 @@
 ---
 title: Ghana ThinkTank App
 artist: Ghana ThinkTank
-cover: /wp-content/uploads/2016/07/gttProject04.jpg
 categories: projects
 ---
 [Ghana ThinkTank](http://ghanathinktank.org/) has been “Developing the First World” since 2006. They collect problems in the U.S. and Europe, and send them to a growing network of think tanks they&#8217;ve established in Cuba, Ghana, Iran, Mexico, El Salvador, and the U.S. prison system to analyze and solve. They then work with the communities where the problems originated to implement those solutions, whether they seem impractical, illegal or brilliant.

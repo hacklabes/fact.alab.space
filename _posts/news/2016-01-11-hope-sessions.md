@@ -1,7 +1,6 @@
 ---
 title: Hope Sessions
 dates: '11 & 12 January 2016'
-cover: /wp-content/uploads/2017/01/mm.png
 categories: news
 ---
 Earlier this week, the lab hosted a series of art+tech induction sessions for a group of 40 first-year art students from Liverpool Hope University.

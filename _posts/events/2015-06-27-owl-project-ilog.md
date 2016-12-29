@@ -1,6 +1,5 @@
 ---
 title: 'Owl Project: iLog'
-cover: /wp-content/uploads/2015/06/iLog.jpeg
 categories: events
 ---
 [Owl Project's](http://www.owlproject.com/) iLog is a classic, desirable, design item; a beautiful and fully functional musical instrument housed in a wooden log. Resisting many requests to mass produce or make them to sell, the only way to own an iLog is to join Owl Project and make your own!

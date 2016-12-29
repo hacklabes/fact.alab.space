@@ -1,7 +1,6 @@
 ---
 title: 'HackNights: Summer 2015'
 dates: '9 June - 27 August 2015'
-cover: /wp-content/uploads/2015/06/hack_intro_flyer00.jpg
 categories: hacknights
 ---
 An informal, but guided study group for different topics in art and technology. During the first six weeks we will introduce basic concepts of programming and electronics using tools like [Processing](https://processing.org/) and [Arduino](https://www.arduino.cc/), along with basic prototyping and 3D design tools.

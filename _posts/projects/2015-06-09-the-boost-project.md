@@ -1,7 +1,6 @@
 ---
 title: The Boost Project
 artist: Ant Hamlyn
-cover: /wp-content/uploads/2016/06/boostSketch00-e1450181976560.jpg
 categories: projects
 ---
 The Boost Project by [Ant Hamlyn](http://anthamlyn.co.uk/) is an interactive, living installation exploring how social media allows us to live within an alternate reality; one in which we can easily attain a heightened sense of belonging or a temporal state of appreciation. The inflating orb aims to emulate the acceptance and self worth we can feel after receiving ‘likes’ on our posts or pictures online.

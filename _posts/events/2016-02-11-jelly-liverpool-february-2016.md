@@ -1,6 +1,5 @@
 ---
 title: Jelly Liverpool
-cover: /wp-content/uploads/ngg_featured/xIMG_4847.JPG
 categories: events
 ---
 Jelly is monthly co-working event, where people come together regardless of their area of expertise to work together for the day. It’s even been described as a popup office!
