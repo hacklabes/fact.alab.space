@@ -1,5 +1,6 @@
 ---
 title: Reading and Thinging
+swipebox: rt01
 categories: news home
 ---
 The first Reading and Thinging meeting happened last night. This is an open-ended project started by lab residents Radamés Ajna and Thiago Hersan, and PhD researchers Alex Pearl and Sam Skinner from Manchester Metropolitan University.
@@ -12,6 +13,4 @@ For the first meeting, we suggested texts that explore the ideas of New Material
 
 Alex did a great job at summarizing Donna Haraway&#8217;s metaphor of the Cat&#8217;s Cradle as a method for combining, entangling and knotting different fields of intersecting research when thinking about Technoscience. In short, it doesn&#8217;t make sense to keep discussions about Science only between scientists, and what is considered &#8220;science&#8221; has to be analyzed with its many socio-political-economical implications and assumptions.
 
-We even got to play analog Cat&#8217;s Cradle with strings and hands !
-
-<img class="ngg_displayed_gallery mceItem" src="http://flab.space/nextgen-attach_to_post/preview/id--834" alt="" data-mce-placeholder="1" />
+We even got to play analog Cat's Cradle with strings and hands !
