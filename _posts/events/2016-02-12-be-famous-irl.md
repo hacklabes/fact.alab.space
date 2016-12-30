@@ -10,3 +10,5 @@ Can we use physical spaces to give significance to otherwise commonplace exchang
 Famous resident artists Radamés Ajna and [Thiago Hersan](http://www.thiagohersan.com/) will present their famous project 0.25FPS, where passersby will be able to use the FACT façade as a giant flashbulb for their selfies and other photos.
 
 As a public art intervention, 0.25FPS is a kind of homage to other forms of technology-mediated communications, like architecture and photography; it is also an open platform that invites direct participation and creates an opportunity for playfulness, social interaction and collective communication through the use of a simple interface that nonetheless transforms and reinterprets the urban landscape. It is an experience, without being a spectacle.
+
+<iframe width="853" height="480" src="https://www.youtube.com/embed/rXmmzGKxpYo?rel=0" frameborder="0" allowfullscreen=""></iframe>

@@ -1,6 +1,7 @@
 ---
 title: Ob_ject and Ob_serve
 dates: '11 February – 14 March'
+swipebox: obob
 categories: events home
 ---
 FACTLab and the [Object Liberation Front](http://olf.space/) present: Ob\_ject and Ob\_serve.
@@ -18,5 +19,3 @@ Alex Pearl will present work that looks at the relationship between breakdown in
 [A Small View Gallery](https://asmallviewproject.wordpress.com/) // Gostins Arcade
   
 32-36 Hanover St // Liverpool
-
-<img class="ngg_displayed_gallery mceItem" src="http://alab.space/nextgen-attach_to_post/preview/id--1135" alt="" data-mce-placeholder="1" />

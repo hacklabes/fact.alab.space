@@ -1,5 +1,6 @@
 ---
 title: 'Reading and Thinging #1'
+swipebox: rt01
 categories: events
 ---
 **On Reflection, Refraction and Diffraction**
@@ -11,5 +12,3 @@ The project is a collaboration between current FACT PhD researchers Alex Pearl a
 Reading for the first session included texts by [Donna Haraway](https://muse.jhu.edu/journals/configurations/v002/2.1haraway.html), [Karen Barad](http://humweb.ucsc.edu/feministstudies/faculty/barad/barad-posthumanist.pdf) and [Iris van der Tuin](http://www.academia.edu/7636218/Diffraction_as_a_Methodology_for_Feminist_Onto-Epistemology_On_Encountering_Chantal_Chawaf_and_Posthuman_Interpellation_2014_).
 
 We also learned how to play [Cat&#8217;s Cradle](https://en.wikipedia.org/wiki/Cat%27s_cradle) and discussed the exhibition currently on display at FACT &#8212; [Follow](http://www.fact.co.uk/projects/follow.aspx) &#8212; using the tools and terminology presented in the texts.
-
-<img class="ngg_displayed_gallery mceItem" src="http://flab.space/nextgen-attach_to_post/preview/id--779" alt="" data-mce-placeholder="1" />

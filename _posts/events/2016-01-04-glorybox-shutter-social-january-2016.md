@@ -1,5 +1,6 @@
 ---
 title: Glorybox Shutter Social
+swipebox: GBSSJanuary
 categories: events
 ---
 Shutter Social is a monthly peer-led photography workshop hosted by [GLORYBOX](http://www.glory-box.co.uk/).
@@ -11,5 +12,3 @@ This month we will use the green screen set up at FACTLab as a starting point fo
 Feel free to bring with you your instant camera, digital camera or smart phone to record images or videos. If you’d like to edit your work and have a laptop with editing software then bring this along too.
 
 At the end of each session we will offer up the floor to anyone who would like to share a recent project with the group or get feedback on a portfolio piece.
-
-<img class="ngg_displayed_gallery mceItem" src="http://alab.space/nextgen-attach_to_post/preview/id--890" alt="" data-mce-placeholder="1" />
