@@ -7,6 +7,18 @@
   <body>
     {% include navbar.html %}
     <div id="main-div">
+      {% if page.description and page.title %}
+        <div id="post-list-intro">
+          <div id="post-list-title">
+            {{ page.title }}
+          </div>
+
+          <div id="post-list-description">
+            {{ page.description | markdownify }}
+          </div>
+        </div>
+      {% endif %}
+
       <div id="post-list" class="post-list-container">
         {% for post in site.posts %}
           {% assign pageCategory = page.title|downcase %}
