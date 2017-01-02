@@ -11,4 +11,6 @@ Famous resident artists Radamés Ajna and [Thiago Hersan](http://www.thiagohersa
 
 As a public art intervention, 0.25FPS is a kind of homage to other forms of technology-mediated communications, like architecture and photography; it is also an open platform that invites direct participation and creates an opportunity for playfulness, social interaction and collective communication through the use of a simple interface that nonetheless transforms and reinterprets the urban landscape. It is an experience, without being a spectacle.
 
-<iframe width="853" height="480" src="https://www.youtube.com/embed/rXmmzGKxpYo?rel=0" frameborder="0" allowfullscreen=""></iframe>
+<div class="video-wrapper video-wrapper-16x9">
+  <iframe width="853" height="480" src="https://www.youtube.com/embed/rXmmzGKxpYo?rel=0" frameborder="0" allowfullscreen=""></iframe>
+</div>

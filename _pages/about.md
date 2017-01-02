@@ -15,7 +15,9 @@ Since then, it has been an accompanying feature for two [other](http://www.fact.
 
 It has been a great way for engaging with the artistic community in Liverpool, because as a practice-based public space, it acts as a catalyst for the local creative community and recognizes that cultural institutions are places where art is made, and not just shown.
 
-<iframe src="https://player.vimeo.com/video/138622824?byline=0&amp;portrait=0" width="800" height="450" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<div class="video-wrapper video-wrapper-16x9">
+  <iframe src="https://player.vimeo.com/video/138622824?byline=0&amp;portrait=0" width="800" height="450" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+</div>
 
 * * *
 
