@@ -23,5 +23,7 @@ It has been a great way for engaging with the artistic community in Liverpool, b
 
 FACTLab and its events are supported by the Culture Programme of the European Union and Connecting Cities.
 
-![](/assets/logos/eu-culture.jpg)
-![](/assets/logos/connecting-cities.jpg)
+<div class="inline-images" markdown="1">
+  ![](/assets/logos/eu-culture.jpg)
+  ![](/assets/logos/connecting-cities.jpg)
+</div>
