@@ -1,7 +1,7 @@
 ---
 title: Reading and Thinging
 swipebox: rt01
-categories: news home
+categories: news alab
 ---
 The first Reading and Thinging meeting happened last night. This is an open-ended project started by lab residents Radamés Ajna and Thiago Hersan, and PhD researchers Alex Pearl and Sam Skinner from Manchester Metropolitan University.
 

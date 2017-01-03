@@ -2,7 +2,7 @@
 title: Ob_ject and Ob_serve
 dates: '11 February – 14 March'
 swipebox: obob
-categories: events home
+categories: events alab
 ---
 FACTLab and the [Object Liberation Front](http://olf.space/) present: Ob\_ject and Ob\_serve.
 

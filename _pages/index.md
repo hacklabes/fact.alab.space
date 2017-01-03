@@ -1,6 +1,6 @@
 ---
 layout: list
-title: home
+title: alab
 subtitle: A Lab Space
 permalink: '/'
 ---
