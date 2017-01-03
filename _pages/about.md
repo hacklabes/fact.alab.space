@@ -2,11 +2,10 @@
 layout: post
 title: About
 description: ''
+cover: /assets/lab/lab00.jpg
 permalink: '/about/'
 menu: true
 ---
-![](/assets/lab/lab00.jpg)
-
 The lab started as a temporary residency space within the [Build Your Own](http://www.fact.co.uk/projects/build-your-own-tools-for-sharing.aspx) exhibition at FACT. It was created to expose some of the creative and technical processes behind current artistic practices.
 
 Throughout the 3-month exhibition the lab hosted visiting artists, supported the development of new works, and provided a physical location for workshops and skill-sharing events. The lab also served as a short-term production facility for other artists, workshops and events taking place at FACT during the exhibition months.
