@@ -3,7 +3,7 @@ title: FACTLAB
 subtitle: A Lab Space
 
 # URL
-url: http://alab.space
+url: http://fact.alab.space
 baseurl: /
 permalink: :title/
 include: ['_pages']
