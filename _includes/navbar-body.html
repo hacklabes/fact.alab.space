@@ -1,0 +1,13 @@
+<div class="title-container">
+  <a id="nav-home" href="/">
+    <div class="nav-item">{{ site.subtitle }}</div>
+  </a>
+</div>
+<div class="pages-container">
+  {% assign menuPages = site.pages | where:"menu","true" %}
+  {% for page in menuPages %}
+    <a id="nav-{{ page.title | downcase }}" href="{{ page.url }}">
+      <div class="nav-item">{{ page.title }}</div>
+    </a>
+  {% endfor %}
+</div>

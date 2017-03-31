@@ -21,22 +21,25 @@ body {
   }
 }
 
-#navbar {
+.nav-container {
   display: -webkit-flex;
   display: flex;
   -webkit-flex-direction: column;
   flex-direction: column;
-
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
+
   padding: $MENU-VERTICAL-SPACING $MENU-HORIZONTAL-SPACING;
   background-color: $MENU-BACKGROUND-COLOR;
 
   width: 100%;
+  position: relative;
 
   @include media-query(THREE) {
-    width: 25%;
+    width: $NAVBAR-WIDTH;
     max-width: $NAVBAR-WIDTH;
+    min-width: $NAVBAR-WIDTH;
+    height: 100%;
   }
 
   .pages-container, .title-container {
@@ -61,6 +64,11 @@ body {
     -webkit-justify-content: center;
     justify-content: center;
   }
+}
+
+#navbar {
+  position: fixed;
+  z-index: 50;
 }
 
 #main-div {
