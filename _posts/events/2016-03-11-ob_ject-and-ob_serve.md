@@ -4,7 +4,7 @@ dates: '11 February – 14 March'
 swipebox: obob
 categories: events alab
 ---
-FACTLab and the [Object Liberation Front](http://olf.space/) present: Ob\_ject and Ob\_serve.
+FACTLab and the [Object Liberation Front](http://olf.alab.space/) present: Ob\_ject and Ob\_serve.
 
 This is the first exhibition by a group of artists, technologists and researchers, loosely working under the name Object Liberation Front, who get together to discuss non-anthropocentric possibilities for concepts like Artificial Intelligence, and their implication to the social imaginary.
 
